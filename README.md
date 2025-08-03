@@ -2,7 +2,7 @@
 Air wriiten digit prediction
 
 how it works?
-https://www.youtube.com/watch?v=tEhszmidQEQ
+https://youtu.be/O0HBX2wPC7k
 
 find the attached pdf
 Air written digit classification:
